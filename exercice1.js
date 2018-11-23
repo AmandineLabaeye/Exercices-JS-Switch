@@ -1,9 +1,17 @@
+var fruits = "Apple";
+switch (fruits) {
 
-(fruits) {
-    "Banana":
-    alert("Hello")
+    case "Banana":
+
+        alert("Hello");
+
     break;
-    "Apple":
-    alert("Welcome")
+
+
+    case "Apple":
+
+        alert("Welcome");
+
     break;
+
 }
